@@ -163,7 +163,7 @@ export default function RegisterPage() {
                 size={14}
               >
                 <Icon name="info" size={14} color="var(--warn-color)" /> You
-                must be over the age of 14 to use Nerimity.
+                must be known by me to use Nerimity.
               </Text>
             </NoticesContainer>
             <Input
